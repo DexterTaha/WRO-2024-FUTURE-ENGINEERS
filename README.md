@@ -24,3 +24,9 @@ _Remove this section before the first commit to the repository_
 1. Clone this repo by using the `git clone` functionality.
 2. Remove `.git` directory
 3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
+
+## Contribution
+
+
+
+<a href="https://github.com/WRO-2024-FUTURE-ENGINEERS/contributors">
