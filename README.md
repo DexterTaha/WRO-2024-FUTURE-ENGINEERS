@@ -31,7 +31,8 @@ _Remove this section before the first commit to the repository_
 | Quantity         | Status                                                       | Description                                             |
 | -----------------| ------------------------------------------------------------ | ------------------------------------------------------- |
 | 1                | Raspberry Pi 4 Model B                                       | [raspberry-pi-4-product-brief.pdf](https://github.com/user-attachments/files/15571399/raspberry-pi-4-product-brief.pdf)                             |
-| 1                | Logitech® HD Webcam C270                                     | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256>                           |
+| 1                | Logitech® HD Webcam C270                                     | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256 alt="Raspberry Pi 4 Product Brief">
+                           |
 | 1                | 5v power bank                                                | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256> |
 | 2                | Logo® Robot inventor hub                                     | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256>                       |
 | 5                | Logo® Technic™ Medium Angular Motor                          | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256> |
