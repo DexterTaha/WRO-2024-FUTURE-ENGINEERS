@@ -26,9 +26,8 @@ _Remove this section before the first commit to the repository_
 3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
 
 ## Contribution
-<a href="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=DexterTaha/WRO-2024-FUTURE-ENGINEERS" />
-</a>
-
-
-
+<p align="center">
+  <a href="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=DexterTaha/WRO-2024-FUTURE-ENGINEERS" alt="Contributors" width="400"/>
+  </a>
+</p>
