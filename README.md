@@ -27,6 +27,6 @@ _Remove this section before the first commit to the repository_
 
 ## Contribution
 
+[<img src="https://github.com/DexterTaha.png" width="60px;"/><br /><sub><ahref="https://github.com/DexterTaha">{DexterTaha</a></sub>](https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS }}
 
 
-<a href="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/graphs/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
