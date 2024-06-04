@@ -25,6 +25,20 @@ _Remove this section before the first commit to the repository_
 2. Remove `.git` directory
 3. [Initialize a new public repository on GitHub](https://github.com/new) by following instructions from "create a new repository on the command line" section (appeared after pressing "Create repository" button).
 
+
+## Bill of materials
+
+| Quantity         | Status                                                       | Description                                             |
+| -----------------| ------------------------------------------------------------ | ------------------------------------------------------- |
+| 1                | Raspberry Pi 4 Model B                                       | [raspberry-pi-4-product-brief.pdf](https://github.com/user-attachments/files/15571399/raspberry-pi-4-product-brief.pdf)                             |
+| 1                | Logitech® HD Webcam C270                                     | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256>                           |
+| 1                | 5v power bank                                                | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256> |
+| 2                | Logo® Robot inventor hub                                     | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256>                       |
+| 5                | Logo® Technic™ Medium Angular Motor                          | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256> |
+| 2                | Logo® Technic™ Color Sensor                                  | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256>                      |
+| 3                | Logo® Technic™ Ultrasonic Sensor                             | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256>                          |
+| 280              | Logo® Technic™ spare pieces                                  | <img src="https://user-images.githubusercontent.com/25759564/67250038-b1c22e00-f41e-11e9-82d2-bbb17526310b.jpg" width=256>                          |
+
 ## Contribution
 <p align="center">
   <a href="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/graphs/contributors">
