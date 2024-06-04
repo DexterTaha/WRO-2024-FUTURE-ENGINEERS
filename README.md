@@ -28,6 +28,6 @@ _Remove this section before the first commit to the repository_
 ## Contribution
 <p align="center">
   <a href="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=DexterTaha/WRO-2024-FUTURE-ENGINEERS" alt="Contributors" width="400"/>
+    <img src="https://contrib.rocks/image?repo=DexterTaha/WRO-2024-FUTURE-ENGINEERS" alt="Contributors" width="200"/>
   </a>
 </p>
