@@ -29,4 +29,4 @@ _Remove this section before the first commit to the repository_
 
 
 
-<a href="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/graphs/contributors"><</a>
+<a href="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/graphs/contributors"><img src="https://opencollective.com/vuejs/contributors.svg?width=890" /></a>
