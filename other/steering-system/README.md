@@ -1,7 +1,12 @@
 Steering-system
 ====
 
-![steering system](https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/4f42904a-ee2f-4133-b803-a07f0b15f1a0)
+<p align="center">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/4f42904a-ee2f-4133-b803-a07f0b15f1a0" alt="steering system" width="500">
+  <br>
+  <strong>Steering-system</strong>
+</p>
+
 
 The steering system of our self-driving robot utilizes a gear rack mechanism made of LEGO pieces.
 This mechanism allows the robot to achieve a full range of motion, requiring 360 degrees of rotation from the steering motor.
@@ -13,7 +18,12 @@ The use of LEGO pieces ensures a lightweight and robust steering system suitable
 
 
 ## The rack and gear system
-![RACK AND GEAR](https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/f109e214-ce08-4ed0-9800-5918b34b84f6)
+<p align="center">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/f109e214-ce08-4ed0-9800-5918b34b84f6" alt="RACK AND GEAR" width="500">
+  <br>
+  <strong>The rack and gear system</strong>
+</p>
+
 
 The rack and gear system is a mechanism that converts rotational motion into linear motion. It consists of two main components: a gear (often called a pinion) and a rack.
 
