@@ -17,7 +17,6 @@ In many motor vehicle differentials, a gearing reduction is achieved by having f
 
 
 
-## Differential (mechanical device)
 
 ## Differential operation while turning left:
 
