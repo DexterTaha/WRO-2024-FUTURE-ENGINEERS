@@ -1,5 +1,11 @@
-## Team Members
+## Team Fun picture 
+<p align="center">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/6604c0b1-e1dd-48b9-bd8a-89008805fb09" alt="fun pic" width="500">
+  <br>
+  <strong>OUR Team Fun pic🤦‍♂️</strong>
+</p>
 
+## Team Members
 <p align="center" style="line-height: 1.5;">
   <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/9433b46e-e3d3-4201-a00c-6ae577e185a5" width="500">
   <br>
