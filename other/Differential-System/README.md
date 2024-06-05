@@ -8,7 +8,7 @@ Differential System
 </p>
 
 
-Our LEGO robot features a gearbox with a ratio of 0.6. This gearbox contains a differential, a gear train with three drive shafts.
+Our LEGO robot features a gearbox with a ratio of 1.6. This gearbox contains a differential, a gear train with three drive shafts.
 One key property of the differential is that the rotational speed of one shaft is the average of the speeds of the others. 
 This mechanism is commonly used in motor vehicles to enable the wheels at each end of a drive axle to rotate at different speeds, particularly when cornering. 
 Differentials also find applications in clocks, analog computers, and various mechanical systems where different rotational speeds or gear ratios are required. 
