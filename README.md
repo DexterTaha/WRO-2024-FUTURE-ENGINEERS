@@ -11,8 +11,8 @@ The World Robot Olympiad (WRO) is an international robotics competition that cha
 Participants compete in various categories, each focusing on different aspects of robotics. 
 One of the most exciting categories is the Future Engineers, which encourages participants to develop innovative solutions to real-world problems using robotics and automation. 
 This category inspires students to think critically and inventively, laying the foundation for future generations of engineers and technologists.
-This year's challenge in the Future Engineers category is to create a self-driving car, adding an extra layer of complexity and innovation to the competition.
-
+This year's challenge in the Future Engineers category is to create a self-driving car [explanation video]([https://github.com/salmane-derdeb](https://www.youtube.com/watch?v=_J15lf6uhwo&t=2s))
+, adding an extra layer of complexity and innovation to the competition.
 ## Content
 
 - `t-photos`: Contains 2 photos of the team, including an official one and a funny photo with all team members.
