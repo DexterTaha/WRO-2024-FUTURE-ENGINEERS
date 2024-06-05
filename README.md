@@ -6,13 +6,16 @@ MINDCRAFT WRO Future Engineers team
 
 This repository provides information and knowledge regarding the ongoing progress, evolution, and development of our self-driving robot vehicle, which was created and coded by us, [Salmane Derdeb](https://github.com/salmane-derdeb) and [Taha TAIDI LAAMIRI](https://github.com/DexterTaha), as participants in the Future Engineers 2024 division of the World Robot Olympiad (WRO).
 
-## WRO (World Robot Olympiad)
-The World Robot Olympiad (WRO) is an international robotics competition that challenges students from around the globe to showcase their creativity, problem-solving skills, and technical expertise in designing and programming robots.
-Participants compete in various categories, each focusing on different aspects of robotics. 
-One of the most exciting categories is the Future Engineers, which encourages participants to develop innovative solutions to real-world problems using robotics and automation. 
-This category inspires students to think critically and inventively, laying the foundation for future generations of engineers and technologists.
-This year's challenge in the Future Engineers category is to create a self-driving car [explanation video]([https://github.com/salmane-derdeb](https://www.youtube.com/watch?v=_J15lf6uhwo&t=2s))
-, adding an extra layer of complexity and innovation to the competition.
+## World Robot Olympiad (WRO)
+The World Robot Olympiad (WRO) is a prestigious international robotics competition that ignites the imaginations of students worldwide. It challenges participants to showcase their creativity, problem-solving skills, and technical prowess in designing and programming robots for a variety of tasks and challenges.
+
+One of the most dynamic categories within WRO is the Future Engineers category. Here, participants are tasked with developing innovative solutions to real-world problems using robotics and automation. This category serves as a breeding ground for future innovators, encouraging students to think critically and creatively, laying the groundwork for a new generation of engineers and technologists.
+
+This year, the Future Engineers category presents an exciting challenge: creating a self-driving car. This challenge pushes participants to explore the cutting edge of robotics, adding layers of complexity and innovation to an already thrilling competition.
+
+[Watch the challenge explanation video](https://www.youtube.com/watch?v=_J15lf6uhwo&t=2s)
+
+
 ## Content
 
 - `t-photos`: Contains 2 photos of the team, including an official one and a funny photo with all team members.
