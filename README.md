@@ -1,3 +1,5 @@
+![banner](https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/d9385136-f971-4c95-ba80-ffc14f7c0a4e)
+
 MINDCRAFT WRO Future Engineers team
 ====
 
