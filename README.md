@@ -1,5 +1,10 @@
-Engineering materials
+MINDCRAFT WRO Future Engineers team
 ====
+
+
+This repository provides information and knowledge regarding the ongoing progress, evolution, and development of our self-driving robot vehicle, which was created and coded by us[@Salmane Derdeb] (https://github.com/salmane-derdeb) and [@Taha TAIDI LAAMIRI] (https://github.com/DexterTaha) as a participant in the Future Engineers 2024 division of the World Robot Olympiad (WRO).
+
+
 
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2024.
 
