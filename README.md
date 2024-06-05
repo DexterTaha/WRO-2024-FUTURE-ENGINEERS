@@ -37,10 +37,9 @@ OUR ROBOT
 ## OUR ROBOT
 <p align="center">
   <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/64664154-5967-491a-95b5-6b116392faf6" alt="W15" width="500">
-  
-  OUR ROBOT 
+  <br>
+  <strong>OUR ROBOT</strong>
 </p>
-
 
 
 Our robot, named W15, is a remarkable creation built using LEGO components. It incorporates five main parts, each crucial to its functionality. The steering mechanism allows for precise control, while the gearbox ensures smooth operation. Sensing elements provide environmental awareness, enabling the robot to react to its surroundings. The driving system propels the robot with agility and speed. The name W15 is inspired by the W15 Mercedes Formula One car of 2024, reflecting our robot's cutting-edge design and performance.
