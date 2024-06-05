@@ -2,7 +2,7 @@ MINDCRAFT WRO Future Engineers team
 ====
 
 <p align="center">
-  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/d9385136-f971-4c95-ba80-ffc14f7c0a4e" alt="banner" width="800">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/d9385136-f971-4c95-ba80-ffc14f7c0a4e" alt="banner" width="1500">
 </p>
 
 
@@ -10,7 +10,7 @@ This repository provides information and knowledge regarding the ongoing progres
 
 ## World Robot Olympiad (WRO)
 <p align="center">
-  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/6d08f11e-2e99-4d6c-8994-0dc8783c6f05" width="1707">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/6d08f11e-2e99-4d6c-8994-0dc8783c6f05" width="1500">
 </p>
 
 The World Robot Olympiad (WRO) is a prestigious international robotics competition that ignites the imaginations of students worldwide. It challenges participants to showcase their creativity, problem-solving skills, and technical prowess in designing and programming robots for a variety of tasks and challenges.
@@ -46,6 +46,7 @@ Our robot, named W15, is a remarkable creation built using LEGO components. It i
 <p align="center">
   <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/3843db28-f352-4599-a5ec-a22cdc28278d" alt="W15 F1" width="300">
 </p>
+W15 MERCEDES F1 car
 
 ## ROBOT AIM and OBJECTIVES
 Aim
