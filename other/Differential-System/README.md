@@ -24,10 +24,10 @@ In many motor vehicle differentials, a gearing reduction is achieved by having f
   <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/516c929b-7563-4853-9235-23c847a6f946" alt="Differential_locked-2" width="300">
   <br>
   <strong>Differential operation while turning left:</strong>
-  Input torque is applied to the ring gear (purple), which rotates the carrier (purple) at the same speed. The left sun gear (red) provides more resistance than the right sun gear (yellow), which causes the planet gear (green) to rotate anti-clockwise.
-This produces slower rotation in the left sun gear and faster rotation in the right sun gear, resulting in the car's right wheel turning faster (and thus travelling farther) than the left wheel.
 </p>
 
+Input torque is applied to the ring gear (purple), which rotates the carrier (purple) at the same speed. The left sun gear (red) provides more resistance than the right sun gear (yellow), which causes the planet gear (green) to rotate anti-clockwise.
+This produces slower rotation in the left sun gear and faster rotation in the right sun gear, resulting in the car's right wheel turning faster (and thus travelling farther) than the left wheel.
 
 ## Differential operation while driving in a straight line:
 
@@ -35,7 +35,8 @@ This produces slower rotation in the left sun gear and faster rotation in the ri
   <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/b6141bb6-29a7-4e39-94ff-8b7e94e22bf6" alt="Differential_free" width="300">
   <br>
   <strong>Differential operation while driving in a straight line:</strong>
-  Input torque is applied to the ring gear (purple), which rotates the carrier (purple) at the same speed. 
+</p>
+
+Input torque is applied to the ring gear (purple), which rotates the carrier (purple) at the same speed. 
   When the resistance from both wheels is the same, the planet gear (green) doesn't rotate on its axis (although the gear and its pin are orbiting due to being attached to the carrier). 
   This causes the sun gears (red and yellow) to rotate at the same speed, resulting in the car's wheels also rotating at the same speed.
-</p>
