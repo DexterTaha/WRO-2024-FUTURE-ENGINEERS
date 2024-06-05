@@ -1,13 +1,17 @@
 MINDCRAFT WRO Future Engineers team
 ====
 
-![banner](https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/d9385136-f971-4c95-ba80-ffc14f7c0a4e)
+<p align="center">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/d9385136-f971-4c95-ba80-ffc14f7c0a4e" alt="banner" width="800">
+</p>
 
 
 This repository provides information and knowledge regarding the ongoing progress, evolution, and development of our self-driving robot vehicle, which was created and coded by us, [Salmane Derdeb](https://github.com/salmane-derdeb) and [Taha TAIDI LAAMIRI](https://github.com/DexterTaha), as participants in the Future Engineers 2024 division of the World Robot Olympiad (WRO).
 
 ## World Robot Olympiad (WRO)
-<img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/6d08f11e-2e99-4d6c-8994-0dc8783c6f05" width="1707">
+<p align="center">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/6d08f11e-2e99-4d6c-8994-0dc8783c6f05" width="1707">
+</p>
 
 The World Robot Olympiad (WRO) is a prestigious international robotics competition that ignites the imaginations of students worldwide. It challenges participants to showcase their creativity, problem-solving skills, and technical prowess in designing and programming robots for a variety of tasks and challenges.
 
@@ -31,15 +35,17 @@ This year, the Future Engineers category presents an exciting challenge: creatin
 OUR ROBOT
 ====
 ## OUR ROBOT
-<img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/64664154-5967-491a-95b5-6b116392faf6" alt="W15" width="500">
+<p align="center">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/64664154-5967-491a-95b5-6b116392faf6" alt="W15" width="500">
+</p>
 
 OUR ROBOT 
 
 
 Our robot, named W15, is a remarkable creation built using LEGO components. It incorporates five main parts, each crucial to its functionality. The steering mechanism allows for precise control, while the gearbox ensures smooth operation. Sensing elements provide environmental awareness, enabling the robot to react to its surroundings. The driving system propels the robot with agility and speed. The name W15 is inspired by the W15 Mercedes Formula One car of 2024, reflecting our robot's cutting-edge design and performance.
-
-<img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/3843db28-f352-4599-a5ec-a22cdc28278d" alt="W15 F1" width="300">
-
+<p align="center">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/3843db28-f352-4599-a5ec-a22cdc28278d" alt="W15 F1" width="300">
+</p>
 
 ## ROBOT AIM and OBJECTIVES
 Aim
