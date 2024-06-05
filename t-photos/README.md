@@ -1,6 +1,6 @@
 ## Team Fun picture 
 <p align="center">
-  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/6604c0b1-e1dd-48b9-bd8a-89008805fb09" alt="fun pic" width="500">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/6604c0b1-e1dd-48b9-bd8a-89008805fb09" alt="fun pic" width="1000">
   <br>
   <strong>OUR Team Fun pic🤦‍♂️</strong>
 </p>
