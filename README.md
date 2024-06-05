@@ -6,6 +6,13 @@ MINDCRAFT WRO Future Engineers team
 
 This repository provides information and knowledge regarding the ongoing progress, evolution, and development of our self-driving robot vehicle, which was created and coded by us, [Salmane Derdeb](https://github.com/salmane-derdeb) and [Taha TAIDI LAAMIRI](https://github.com/DexterTaha), as participants in the Future Engineers 2024 division of the World Robot Olympiad (WRO).
 
+## WRO (World Robot Olympiad)
+The World Robot Olympiad (WRO) is an international robotics competition that challenges students from around the globe to showcase their creativity, problem-solving skills, and technical expertise in designing and programming robots.
+Participants compete in various categories, each focusing on different aspects of robotics. 
+One of the most exciting categories is the Future Engineers, which encourages participants to develop innovative solutions to real-world problems using robotics and automation. 
+This category inspires students to think critically and inventively, laying the foundation for future generations of engineers and technologists.
+This year's challenge in the Future Engineers category is to create a self-driving car, adding an extra layer of complexity and innovation to the competition.
+
 ## Content
 
 - `t-photos`: Contains 2 photos of the team, including an official one and a funny photo with all team members.
