@@ -36,6 +36,7 @@ OUR ROBOT
 ====
 ## OUR ROBOT
 <p align="center">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/3f184c4a-aa2b-491f-9ec5-0fe420d42f31" width="800">
   <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/assets/130682580/64664154-5967-491a-95b5-6b116392faf6" alt="W15" width="500">
   <br>
   <strong>OUR ROBOT</strong>
