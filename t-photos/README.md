@@ -7,7 +7,7 @@
 
 ## Team photo
 <p align = "center">
-  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/blob/9f68311e7310ac1fe705fc96e89e26729d86e60f/t-photos/IMG_8640.JPG alt="team photo" width="1000">
+  <img src="https://github.com/DexterTaha/WRO-2024-FUTURE-ENGINEERS/blob/9f68311e7310ac1fe705fc96e89e26729d86e60f/t-photos/IMG_8640.JPG alt="team photo">
 </p>
 
 ## Team Members
