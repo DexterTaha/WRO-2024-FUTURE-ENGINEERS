@@ -11,6 +11,10 @@ Open Challenge video:
 
 [![Watch the video](https://img.youtube.com/vi/Ygz1bf0YgHs/0.jpg)](https://www.youtube.com/watch?v=Ygz1bf0YgHs)
 
+Color Detection Video:
+===
+[![Watch the video](https://i9.ytimg.com/vi/UHRbKgxB3S8/mqdefault.jpg?sqp=CIz_kLMG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGsgayhrMA8=&rs=AOn4CLAqbisn5jUp48PBHxOvuH62ynasrQ)](https://youtu.be/UHRbKgxB3S8)
+
 
 # Project Title
 
